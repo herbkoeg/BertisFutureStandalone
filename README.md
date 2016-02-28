@@ -1,2 +1,2 @@
 # BertisFutureStandalone
-Demonstrate the use of parallel calls using the interface callable in a standalone application.
+Demonstrate the use of concurrent java calls using the interface callable in a standalone application.
