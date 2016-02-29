@@ -1,2 +1,3 @@
 # BertisFutureStandalone
-Demonstrate the use of concurrent java calls using the interface callable in a standalone application.
+Demonstrate the use of concurrent java calls using the interface Callable.java in a standalone application.
+Simple start ContractCalculationMain.java ...
